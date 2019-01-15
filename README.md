@@ -1,1 +1,1 @@
-# LinkedList written in C++
+# Linked List written in C++
